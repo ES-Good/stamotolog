@@ -418,6 +418,9 @@ Version: 1.0.0
 	.mb-xs-80 {
 		margin-bottom: 80px;
 	}
+	.img-tech{
+		width: 80%;
+	}
 }
 @media (max-width: 460px) {
 	/*topbar*/

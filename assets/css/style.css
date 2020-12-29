@@ -4863,4 +4863,12 @@ width: calc(100% - 96px);
 }
 
 
+.img-tech{
+    width: 30%;
+    border-right: 8px solid #ff0202;
+}
 
+.map-box{
+    border-top: 2px solid  #ff0202;
+    border-bottom: 2px solid  #ff0202;
+}
